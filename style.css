@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(247, 238, 226);
+    padding: 1px;
+    margin: 0;
+}
+.title{
+font-family:Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.text2{
+    text-align: center;
+}
